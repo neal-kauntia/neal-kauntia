@@ -45,7 +45,7 @@ I am a B.Tech student at **IIT Kharagpur** (CGPA: 9.28/10) building at the inter
 ### 🏆 Highlights & Competitive Programming
 - 🏅 **Finalist (Top 10)** — Open IIT Data Analytics Competition 2026 (CreditNirvana Problem Statement)
 - 🎓 **Academic Excellence** — 9.28/10 CGPA at IIT Kharagpur | JEE Main AIR 3241 & JEE Advanced AIR 7697
-- ⚡ **Algorithmic Problem Solving** — Active on [Codeforces](https://codeforces.com/profile/Neon_Aluminium) (Rating: 1191) and [LeetCode]([https://leetcode.com/](https://leetcode.com/u/neal_kauntia/)) (180+ problems solved in C++)
+- ⚡ **Algorithmic Problem Solving** — Active on [Codeforces](https://codeforces.com/profile/Neon_Aluminium) (Rating: 1191) and [LeetCode]((https://leetcode.com/u/neal_kauntia/)) (180+ problems solved in C++)
 
 ---
 
@@ -60,7 +60,7 @@ I am a B.Tech student at **IIT Kharagpur** (CGPA: 9.28/10) building at the inter
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://leetcode.com/u/neal_kauntia/ )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( (https://www.linkedin.com/in/neal-kauntia-a3b750375) )
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nealkauntia@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Neon_Aluminium)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]( https://leetcode.com/u/neal_kauntia/ )
