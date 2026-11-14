@@ -31,7 +31,7 @@ I am a B.Tech student at **IIT Kharagpur** (CGPA: 9.28/10) building at the inter
 
 ### 🚀 Featured Projects
 
-#### 1. [Skip-Trace Prioritisation via Ageing Hidden Markov Models](https://github.com/YOUR_GITHUB_USERNAME/SKIP_TRACE_REPO_NAME) *(Open IIT Data Analytics — Top 10 Finalist)*
+#### 1. [Skip-Trace Prioritisation via Ageing Hidden Markov Models](https://github.com/Team-Data401/CreditNirvana-ps2-rpc-skiptrace) *(Open IIT Data Analytics — Top 10 Finalist)*
 - **Problem:** Predicting right-party contact across 51k debt-collection dial logs and optimizing when a paid skip-trace is worth its cost.
 - **Approach:** Modeled each phone number's latent state using a **continuous-time Hidden Markov Model** (ageing historical evidence via matrix exponentials, matching 82.4% of verified states). Combined **Gradient Boosting + Isotonic Calibration** (0.701 test AUC) with a **Value-of-Information (VoI)** decision policy.
 - **Impact:** Increased held-out skip-trace hit rate from **25.1% to 46.3%** while reducing spend by **~78%** (Rs. 25.3k → Rs. 5.6k) with strict temporal leakage prevention.
