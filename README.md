@@ -31,27 +31,27 @@ I am a B.Tech student at **IIT Kharagpur** (CGPA: 9.28/10) building at the inter
 
 ### 🚀 Featured Projects
 
-#### 1. [Skip-Trace Prioritisation via Ageing Hidden Markov Models](#) *(Open IIT Data Analytics — Top 10 Finalist)*
-* **Problem:** Predicting right-party contact across 51k debt-collection dial logs and optimizing when a paid skip-trace is worth its cost.
-* **Approach:** Modeled each phone number's latent state using a **continuous-time Hidden Markov Model** (ageing historical evidence via matrix exponentials, matching 82.4% of verified states). Combined **Gradient Boosting + Isotonic Calibration** (0.701 test AUC) with a **Value-of-Information (VoI)** decision policy.
-* **Impact:** Increased held-out skip-trace hit rate from **25.1% to 46.3%** while reducing spend by **~78%** (Rs. 25.3k → Rs. 5.6k) with strict temporal leakage prevention.
+#### 1. [Skip-Trace Prioritisation via Ageing Hidden Markov Models](https://github.com/YOUR_GITHUB_USERNAME/SKIP_TRACE_REPO_NAME) *(Open IIT Data Analytics — Top 10 Finalist)*
+- **Problem:** Predicting right-party contact across 51k debt-collection dial logs and optimizing when a paid skip-trace is worth its cost.
+- **Approach:** Modeled each phone number's latent state using a **continuous-time Hidden Markov Model** (ageing historical evidence via matrix exponentials, matching 82.4% of verified states). Combined **Gradient Boosting + Isotonic Calibration** (0.701 test AUC) with a **Value-of-Information (VoI)** decision policy.
+- **Impact:** Increased held-out skip-trace hit rate from **25.1% to 46.3%** while reducing spend by **~78%** (Rs. 25.3k → Rs. 5.6k) with strict temporal leakage prevention.
 
-#### 2. [Image Denoising & Surgical Tool Medial Axis Tracking](#) *(Aerial Robotics Kharagpur Task)*
-* **Denoising Pipeline:** Restored salt-noise-corrupted line drawings using median filtering and morphological opening; benchmarked Non-Local Means vs. Bilateral Filtering on noisy color scenes.
-* **From-Scratch Vision Tracking:** Isolated a moving surgical tool in video using MOG2 background subtraction and Sobel edge extraction, followed by a **from-scratch Hough Line Transform** in $(\rho, \theta)$ accumulator space to compute and track the real-time medial axis across frames.
+#### 2. [Image Denoising & Surgical Tool Medial Axis Tracking](https://github.com/YOUR_GITHUB_USERNAME/ARK_TASK_REPO_NAME) *(Aerial Robotics Kharagpur Task)*
+- **Denoising Pipeline:** Restored salt-noise-corrupted line drawings using median filtering and morphological opening; benchmarked Non-Local Means vs. Bilateral Filtering on noisy color scenes.
+- **From-Scratch Vision Tracking:** Isolated a moving surgical tool in video using MOG2 background subtraction and Sobel edge extraction, followed by a **from-scratch Hough Line Transform** in $(\rho, \theta)$ accumulator space to compute and track the real-time medial axis across frames.
 
 ---
 
 ### 🏆 Highlights & Competitive Programming
 - 🏅 **Finalist (Top 10)** — Open IIT Data Analytics Competition 2026 (CreditNirvana Problem Statement)
 - 🎓 **Academic Excellence** — 9.28/10 CGPA at IIT Kharagpur | JEE Main AIR 3241 & JEE Advanced AIR 7697
-- ⚡ **Algorithmic Problem Solving** — Active on [Codeforces](https://codeforces.com/profile/Neon_Aluminium) (Rating: 1191) and [LeetCode]((https://leetcode.com/u/neal_kauntia/)) (180+ problems solved in C++)
+- ⚡ **Algorithmic Problem Solving** — Active on [Codeforces](https://codeforces.com/profile/Neon_Aluminium) (Rating: 1191) and [LeetCode](https://leetcode.com/u/neal_kauntia/) (180+ problems solved in C++)
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neal-kauntia-a3b750375 )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neal-kauntia-a3b750375)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nealkauntia@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Neon_Aluminium)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]( https://leetcode.com/u/neal_kauntia/ )
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/neal_kauntia/)
