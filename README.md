@@ -36,7 +36,7 @@ I am a B.Tech student at **IIT Kharagpur** (CGPA: 9.28/10) building at the inter
 - **Approach:** Modeled each phone number's latent state using a **continuous-time Hidden Markov Model** (ageing historical evidence via matrix exponentials, matching 82.4% of verified states). Combined **Gradient Boosting + Isotonic Calibration** (0.701 test AUC) with a **Value-of-Information (VoI)** decision policy.
 - **Impact:** Increased held-out skip-trace hit rate from **25.1% to 46.3%** while reducing spend by **~78%** (Rs. 25.3k → Rs. 5.6k) with strict temporal leakage prevention.
 
-#### 2. [Image Denoising & Surgical Tool Medial Axis Tracking](https://github.com/YOUR_GITHUB_USERNAME/ARK_TASK_REPO_NAME) *(Aerial Robotics Kharagpur Task)*
+#### 2. [Image Denoising & Surgical Tool Medial Axis Tracking](https://github.com/neal-kauntia/ARK_Perception_Selection_2026) *(Aerial Robotics Kharagpur Task)*
 - **Denoising Pipeline:** Restored salt-noise-corrupted line drawings using median filtering and morphological opening; benchmarked Non-Local Means vs. Bilateral Filtering on noisy color scenes.
 - **From-Scratch Vision Tracking:** Isolated a moving surgical tool in video using MOG2 background subtraction and Sobel edge extraction, followed by a **from-scratch Hough Line Transform** in $(\rho, \theta)$ accumulator space to compute and track the real-time medial axis across frames.
 
